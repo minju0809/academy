@@ -63,5 +63,6 @@
     &emsp;&emsp; <a href="<?= $path ?>/member/member_list.php">회원목록 보기</a>
     &emsp;&emsp; <a href="<?= $path ?>/test/test_list.php">Test 목록 보기</a>
     &emsp;&emsp; <a href="<?= $path ?>/test/test_insert.php">Test Insert</a>
+    &emsp;&emsp; <a href="<?= $path ?>/test/sample.php">Sample</a>
     &emsp;&emsp; <a href="<?= $path ?>/member/member.php">회원가입</a>
   </nav>
